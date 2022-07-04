@@ -2,6 +2,7 @@
 Technological service website.<br>
 
 An example technological service page is designed in this repo.<br>
+In this study, help was taken from the Traversy Media youtube channel.https://www.youtube.com/c/TraversyMedia<br>
 
 Site Image<br>
 
